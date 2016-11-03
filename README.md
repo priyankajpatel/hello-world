@@ -1,2 +1,2 @@
 # hello-world
-!st to learn
+HI Everyone
